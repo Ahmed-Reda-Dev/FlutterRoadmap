@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dart.dev/guides/language/language-tour"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="150px" height="200px" alt="Dart"></a>
+  <a href="https://dart.dev/guides/language/language-tour"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="220px" height="200px" alt="Dart"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev/docs/"><img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="400px" height="200px" alt="Flutter"></a>
 </p>
 
@@ -447,10 +447,11 @@ You will need to search and keep learning more and more..
 <br>
 
 # Contact Me 📱
-
-<a href="https://www.facebook.com/ahmedXreda0" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-<a href="https://www.linkedin.com/in/ahmed-reda-a1a07a24b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<p>
+<a href="https://www.facebook.com/ahmedXreda0" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/+201003544657" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmed-reda-a1a07a24b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
 
 <br>
 
