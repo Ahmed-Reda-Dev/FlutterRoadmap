@@ -451,7 +451,7 @@ You will need to search and keep learning more and more..
 <a href="https://www.facebook.com/ahmedXreda0" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/+201003544657" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmed-reda-a1a07a24b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
+<a href="https://www.linkedin.com/in/a7med-reda-x/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
 
 <br>
 
